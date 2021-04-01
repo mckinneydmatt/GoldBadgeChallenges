@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\bin\Debug\ChallengeOneTestProject.dll
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\bin\Debug\ChallengeOneTestProject.pdb
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\bin\Debug\ChallengeOneRepos.dll
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\bin\Debug\ChallengeOneRepos.pdb
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\obj\Debug\ChallengeOneTestProject.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\obj\Debug\ChallengeOneTestProject.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\obj\Debug\ChallengeOneTestProject.csproj.CopyComplete
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\obj\Debug\ChallengeOneTestProject.dll
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneTestProject\obj\Debug\ChallengeOneTestProject.pdb

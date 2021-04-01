@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneRepos\bin\Debug\ChallengeOneRepos.dll
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneRepos\bin\Debug\ChallengeOneRepos.pdb
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneRepos\obj\Debug\ChallengeOneRepos.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneRepos\obj\Debug\ChallengeOneRepos.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneRepos\obj\Debug\ChallengeOneRepos.dll
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneRepos\obj\Debug\ChallengeOneRepos.pdb

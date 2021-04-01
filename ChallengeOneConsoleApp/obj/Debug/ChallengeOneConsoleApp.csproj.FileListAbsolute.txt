@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneConsoleApp\obj\Debug\ChallengeOneConsoleApp.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneConsoleApp\obj\Debug\ChallengeOneConsoleApp.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneConsoleApp\bin\Debug\ChallengeOneConsoleApp.exe.config
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneConsoleApp\bin\Debug\ChallengeOneConsoleApp.exe
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneConsoleApp\bin\Debug\ChallengeOneConsoleApp.pdb
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneConsoleApp\bin\Debug\ChallengeOneRepos.dll
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneConsoleApp\bin\Debug\ChallengeOneRepos.pdb
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneConsoleApp\obj\Debug\ChallengeOneConsoleApp.csproj.CopyComplete
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneConsoleApp\obj\Debug\ChallengeOneConsoleApp.exe
+C:\ElevenFiftyProjects\81-3-8 SD\GoldBadgeFinalProject\GoldBadgeFinalProjects\ChallengeOneConsoleApp\obj\Debug\ChallengeOneConsoleApp.pdb
