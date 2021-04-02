@@ -1,5 +1,9 @@
 # GoldBadgeChallenges - Matt McKinney
-Challenges one, two and three for the Gold Badge final project
+Challenges one, two and three for the Gold Badge final project.
+
+All code in master branch.
+
+
 ## Challenge One: Cafe
 
 Helping Komodo Cafe get a new menu
